@@ -88,8 +88,8 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "megan.c.hollister@vanderbilt.edu"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -100,7 +100,7 @@ address = {city = "Nashville", region = "TN", postcode = "37203", country = "Uni
 coordinates = {latitude = "36.1447", longitude = "86.8027"}
 
 # Directions for visitors to locate you.
-directions = "Biostatistics is in 2525 West End building on the 11th Floor"
+directions = "2525 West End building on the 11th Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

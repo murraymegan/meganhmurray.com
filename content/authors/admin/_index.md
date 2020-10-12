@@ -24,7 +24,7 @@ education:
   courses:
    - course: PhD in Biostatistics (in progress)
      institution: Vanderbilt University
-     year: Expected graduation year is 2022  
+     year: expected 2022  
    - course: BS in Mathematics
      institution: Baylor University
      year: 2017

@@ -2,8 +2,8 @@
   "name": "Megan Hollister Murray",
   "short_name": "Megan Hollister Murray",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "rgb(251, 191, 183)",
+  "background_color": "rgb(251, 191, 183)",
   "icons": [{
     "src": "/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

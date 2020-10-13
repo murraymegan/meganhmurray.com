@@ -97,7 +97,7 @@ address = {city = "Nashville", region = "TN", postcode = "37203", country = "Uni
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.1447", longitude = "86.8027"}
+coordinates = {latitude = "36.1447", longitude = "-86.8027"}
 
 # Directions for visitors to locate you.
 directions = "2525 West End building on the 11th Floor"

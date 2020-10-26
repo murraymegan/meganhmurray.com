@@ -18,7 +18,8 @@ abstract: False discovery rates (FDR) are an essential component of statistical 
 summary: This paper introduces a new user-friendly R package for computing FDRs and adjusting p-values for FDR control. The package is broad, encompassing a variety of methods for FDR estimation and FDR control, and includes plotting functions for easy display of results. 
 
 tags:
-- Source Themes
+- FDRs
+- R Package
 featured: false
 
 links:

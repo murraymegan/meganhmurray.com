@@ -100,7 +100,7 @@ address = {city = "Nashville", region = "TN", postcode = "37203", country = "Uni
 coordinates = {latitude = "36.1447", longitude = "-86.8027"}
 
 # Directions for visitors to locate you.
-directions = "2525 West End building on the 11th Floor"
+directions = "2525 West End 11th Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

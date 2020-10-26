@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Biostatistics PhD Student and Research Assistant 
+role: PhD Candidate and Research Assistant in Biostatistics 
 
 # Organizations/Affiliations
 organizations:
 - name: Vanderbilt University
-  url: "www.meganhmurray.com"
+  url: "https://www.vanderbilt.edu/biostatistics-graduate/"
 
 # Short bio (displayed in user profile at end of posts)
-- bio: My research interests include false discovery rates, machine learning, and data science. 
+- bio: Hello! I am graduate PhD candidate in the Department of Biostatistics at Vanderbilt University. I have a Bachelor's in Mathematics from Baylor University. In January of 2020 I married the love of my life Paul, shown in the photo on this page. We live in a quiet neighborhood in Nashville with our pet Beagle, Moxi. My research interests include false discovery rates, machine learning, and data science. Currently I am working on multiple projects including racial disparities in lung cancer diagnosis and treatment. 
 
 education:
   courses:
-   - course: PhD in Biostatistics (in progress)
+   - course: PhD Candidate in Biostatistics
      institution: Vanderbilt University
      year: expected 2022  
    - course: BS in Mathematics
@@ -65,4 +65,6 @@ highlight_name: false
 #   - Visitors
 ---
 
-Megan is a student working under Dr. Jeffrey D Blume. 
+Hello! I am graduate PhD candidate in the Department of Biostatistics at Vanderbilt University. I have a Bachelor's in Mathematics from Baylor University. In January of 2020 I married the love of my life Paul, shown in the photo on this page. We live in a quiet neighborhood in Nashville with our pet Beagle, Moxi. 
+
+My research interests include false discovery rates, machine learning, and data science. Currently I am working under the advisement of Dr. Jeffrey D. Blume on multiple projects including racial disparities in lung cancer diagnosis and treatment. 

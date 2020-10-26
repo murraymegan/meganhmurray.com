@@ -28,7 +28,7 @@ url_pdf: https://arxiv.org/pdf/2010.04680.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: '""
   focal_point: ""
   preview_only: false
 

@@ -1,16 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Megan Hollister Murray</title>
+    <title>Tags on Megan Hollister Murray</title>
     <link>www.meganhmurray.com/tags/</link>
-      <atom:link href="www.meganhmurray.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>www.meganhmurray.com/tags/</link>
-    </image>
+    <description>Recent content in Tags on Megan Hollister Murray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FDRs</title>
+      <link>www.meganhmurray.com/tag/fdrs/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/tag/fdrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Package</title>
+      <link>www.meganhmurray.com/tag/r-package/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/tag/r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Disparities</title>
+      <link>www.meganhmurray.com/tag/health-disparities/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/tag/health-disparities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PMK</title>
+      <link>www.meganhmurray.com/tag/pmk/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/tag/pmk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine</title>
+      <link>www.meganhmurray.com/tag/precision-medicine/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/tag/precision-medicine/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

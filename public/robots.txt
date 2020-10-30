@@ -1,3 +1,1 @@
 User-agent: *
-
-Sitemap: www.meganhmurray.com/sitemap.xml

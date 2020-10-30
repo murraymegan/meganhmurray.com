@@ -16,7 +16,7 @@ abstract: "A recent paper in the top journal Nature Methods- Statistics versus m
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-03"
+date: "2019-03-10"
 date_end: 
 all_day: false
 

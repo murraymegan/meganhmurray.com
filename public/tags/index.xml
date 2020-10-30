@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chaos</title>
-      <link>www.meganhmurray.com/tag/chaos/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>www.meganhmurray.com/tag/chaos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FDRs</title>
       <link>www.meganhmurray.com/tag/fdrs/</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
@@ -31,15 +22,6 @@
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>www.meganhmurray.com/tag/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-parameter functions</title>
-      <link>www.meganhmurray.com/tag/multi-parameter-functions/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>www.meganhmurray.com/tag/multi-parameter-functions/</guid>
       <description></description>
     </item>
     
@@ -98,9 +80,27 @@
     </item>
     
     <item>
+      <title>Chaos</title>
+      <link>www.meganhmurray.com/tag/chaos/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/tag/chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-parameter functions</title>
+      <link>www.meganhmurray.com/tag/multi-parameter-functions/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/tag/multi-parameter-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chemical Absorption</title>
       <link>www.meganhmurray.com/tag/chemical-absorption/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>www.meganhmurray.com/tag/chemical-absorption/</guid>
       <description></description>
@@ -109,7 +109,7 @@
     <item>
       <title>Dermal Diffusion</title>
       <link>www.meganhmurray.com/tag/dermal-diffusion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>www.meganhmurray.com/tag/dermal-diffusion/</guid>
       <description></description>
@@ -118,7 +118,7 @@
     <item>
       <title>Metabolism</title>
       <link>www.meganhmurray.com/tag/metabolism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>www.meganhmurray.com/tag/metabolism/</guid>
       <description></description>
@@ -127,7 +127,7 @@
     <item>
       <title>Multi-Compartment Model</title>
       <link>www.meganhmurray.com/tag/multi-compartment-model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>www.meganhmurray.com/tag/multi-compartment-model/</guid>
       <description></description>

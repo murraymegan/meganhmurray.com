@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.meganhmurray.com/talk/undergradthesis/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/tag/chaos/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.meganhmurray.com/tag/fdrs/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +14,6 @@
   
   <url>
     <loc>www.meganhmurray.com/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/tag/multi-parameter-functions/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,30 +109,51 @@
   
   <url>
     <loc>www.meganhmurray.com/talk/enar2019/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.meganhmurray.com/categories/</loc>
+    <loc>www.meganhmurray.com/tag/chaos/</loc>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/multi-parameter-functions/</loc>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/talk/undergradthesis/</loc>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/tag/chemical-absorption/</loc>
+    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/tag/dermal-diffusion/</loc>
+    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/tag/metabolism/</loc>
+    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/talk/jmm2017/</loc>
+    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/tag/multi-compartment-model/</loc>
+    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/categories/</loc>
   </url>
   
 </urlset>

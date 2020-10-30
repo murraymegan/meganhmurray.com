@@ -16,7 +16,7 @@ abstract: "The US EPA Toxcast program is interested in predicting toxicity infor
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017"
+date: "2017-03-04"
 date_end: 
 all_day: false
 

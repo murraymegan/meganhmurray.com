@@ -38,14 +38,12 @@ url_slides:
 url_source: 
 url_video: 
 
-
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
   caption: ''
   focal_point: Right
-
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

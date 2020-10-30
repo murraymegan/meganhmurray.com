@@ -70,4 +70,4 @@ highlight_name: false
 
 Hello! I am a PhD candidate in the Department of Biostatistics at Vanderbilt University. I have a Bachelor's in Mathematics from Baylor University. In January of 2020 I married the love of my life Paul, shown in the photo. We live in a quiet neighborhood in Nashville with our pet Beagle, Moxi. 
 
-My research interests include false discovery rates, machine learning, and data science. Currently I am working under the advisement of Dr. Jeffrey D. Blume on multiple projects including identifying racial disparities in lung cancer diagnosis and treatment. 
+My research interests include false discovery rates, second generation p-values, machine learning, and data science. Currently I am working under the advisement of Dr. Jeffrey D. Blume on multiple projects including identifying racial disparities in lung cancer diagnosis and treatment. 

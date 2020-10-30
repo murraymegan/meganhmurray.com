@@ -1,9 +1,9 @@
 ---
-title: An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data
-event: Association for Clinical and Translational Science Conference 2018
-event_url: https://www.actscience.org
+title: 
+event: 
+event_url: 
 
-location: Washington, DC
+location: Nashville, TN
 address:
   street: 
   city: 
@@ -11,12 +11,13 @@ address:
   postcode: 
   country: 
 
-summary: 2018 beamer poster presentation for ACTS conference.
-abstract: "A recent paper in the top journal Nature Methods- Statistics versus machine learning by Bzdok, Altman and Krzywinski - concludes that random forests will correctly identify a greater proportion of truly dysregulated genes more often than traditional methods based on p-value adjustments such as Benjamini-Hochberg. However, the random forests approach, as implemented, requires prior knowledge of the number of true dysregulated genes - information not available in practice. Thus, subsequent conclusions are biased against traditional methods. In related work, second-generation p-values have recently been proposed for large-scale inference. We evaluate the viability and accuracy of this approach as well. Simulation studies of microarray of gene expression data are used. We maintain the original structure proposed by Bzdok, Altman, and Brzywinski. The different methods used to determine the number of dysregulated genes in simulated data were: unadjusted p-values, Benjamini-Hochberg adjusted p-values, random forest importance levels, and second-generation p-values. When all methods are given the same prior information, second-generation p-values generally outperform all other methods. The finding that random forest importance levels via a machine learning algorithm outperform classical methods was not reproduced nor validated in our examination. The choice of an analysis methods for large-scale translation data is critical to the success of any statistical investigation. In this context, machine learning methods fail to outperform standard methods and, given their additional complexity, are not the optimal approach."
+summary: 2020 Oral Qualifying Exam 
+abstract: "The focus of my oral exam will be on machine learning methods and false discovery rates. These two topics became of interest to me after reading a paper published in April 2018 Nature Methods Journal titled ?Statistics versus machine learning? by Bzdok, Altman, and Brzywinski (Bzdok et al., 2018). The authors advocated for machine learning techniques for large-scale inference, as opposed to traditional statistical methods, which generated a great deal of discussion in the statistics community. I decided to replicate and explore their methods to determine for myself if the comparisons were fair or not. I presented my findings from this project at ENAR 2019. During the coding and computation of these methods I discovered, the popular R function stats::p.adjust did not always return the desired values and did not correctly account for missing values. After researching the available options, I decided to create my own R package for false discovery rate (FDR) estimation. The package is now complete and Professor Jeffrey Blume and I have a corresponding paper that explains our methods and illustrates the package. The paper is in the process of being submitted to The R Journal. My orals will focus on the methodology used in the ENAR presentation and in the R package. Dr. Greevy has agreed that, in combination, these two documents can serve as my oral exam preparation. This document will provide a short introduction to these topics. "
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-10-26"
+date: "2020-10-22"
 date_end: 
 all_day: false
 
@@ -24,7 +25,21 @@ all_day: false
 publishDate: ""
 
 authors: []
-tags: []
+tags:
+- FDRs
+- Machine Learning
+- R package
+- Multiple Comparisons
+
+links:
+url_pdf: files/Orals_Exam_Introduction_2020_Megan_Hollister_Murray.pdf
+url_code: 
+url_dataset: 
+url_poster: 
+url_project: 
+url_slides: files/Orals_Slides.pdf
+url_source: 
+url_video: 
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -32,12 +47,6 @@ featured: false
 image:
   caption: ''
   focal_point: Right
-
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

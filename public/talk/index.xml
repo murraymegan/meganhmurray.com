@@ -6,7 +6,25 @@
     <description>Recent content in Talks on Megan Hollister Murray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>www.meganhmurray.com/talk/oralexam/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/talk/oralexam/</guid>
+      <description>2020 Oral Qualifying Exam</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>www.meganhmurray.com/talk/undergradthesis/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/talk/undergradthesis/</guid>
+      <description>2017 Undergrad Honors Thesis</description>
+    </item>
+    
     <item>
       <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
       <link>www.meganhmurray.com/talk/acts2019/</link>
@@ -17,39 +35,21 @@
     </item>
     
     <item>
+      <title></title>
+      <link>www.meganhmurray.com/talk/jmm2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>www.meganhmurray.com/talk/jmm2017/</guid>
+      <description>2017 beamer poster presentation for Joint Mathematics Meeting conference.</description>
+    </item>
+    
+    <item>
       <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
       <link>www.meganhmurray.com/talk/enar2019/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>www.meganhmurray.com/talk/enar2019/</guid>
-      <description>2018 beamer poster presentation for ACTS conference.</description>
-    </item>
-    
-    <item>
-      <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
-      <link>www.meganhmurray.com/talk/oralexam/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>www.meganhmurray.com/talk/oralexam/</guid>
-      <description>2018 beamer poster presentation for ACTS conference.</description>
-    </item>
-    
-    <item>
-      <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
-      <link>www.meganhmurray.com/talk/undergradthesis/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>www.meganhmurray.com/talk/undergradthesis/</guid>
-      <description>2018 beamer poster presentation for ACTS conference.</description>
-    </item>
-    
-    <item>
-      <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
-      <link>www.meganhmurray.com/talk/women2017/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>www.meganhmurray.com/talk/women2017/</guid>
-      <description>2018 beamer poster presentation for ACTS conference.</description>
+      <description>2019 beamer slides for ENAR conference.</description>
     </item>
     
   </channel>

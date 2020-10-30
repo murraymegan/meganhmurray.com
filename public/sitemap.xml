@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>www.meganhmurray.com/talk/oralexam/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/talk/undergradthesis/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/chaos/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/fdrs/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/machine-learning/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/multi-parameter-functions/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/multiple-comparisons/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/r-package/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tags/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/talk/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>www.meganhmurray.com/binary-search/</loc>
     <lastmod>2020-10-19T09:23:16-05:00</lastmod>
   </url>
@@ -23,16 +78,6 @@
   </url>
   
   <url>
-    <loc>www.meganhmurray.com/tag/fdrs/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.meganhmurray.com/author/megan-hollister-murray/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
@@ -44,16 +89,6 @@
   
   <url>
     <loc>www.meganhmurray.com/publication/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/tag/r-package/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/tags/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,42 +118,36 @@
   </url>
   
   <url>
-    <loc>www.meganhmurray.com/tag/machine-learning/</loc>
-    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.meganhmurray.com/tag/multiple-testing/</loc>
     <lastmod>2019-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.meganhmurray.com/talk/</loc>
-    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <loc>www.meganhmurray.com/talk/jmm2017/</loc>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/talk/enar2019/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/talk/oralexam/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/talk/undergradthesis/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/talk/women2017/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/chemical-absorption/</loc>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/dermal-diffusion/</loc>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/metabolism/</loc>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/multi-compartment-model/</loc>
   </url>
   
 </urlset>

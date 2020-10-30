@@ -1,9 +1,9 @@
 ---
-title: An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data
-event: Association for Clinical and Translational Science Conference 2018
-event_url: https://www.actscience.org
+title: 
+event: 
+event_url: 
 
-location: Washington, DC
+location: Waco, TX
 address:
   street: 
   city: 
@@ -11,12 +11,13 @@ address:
   postcode: 
   country: 
 
-summary: 2018 beamer poster presentation for ACTS conference.
-abstract: "A recent paper in the top journal Nature Methods- Statistics versus machine learning by Bzdok, Altman and Krzywinski - concludes that random forests will correctly identify a greater proportion of truly dysregulated genes more often than traditional methods based on p-value adjustments such as Benjamini-Hochberg. However, the random forests approach, as implemented, requires prior knowledge of the number of true dysregulated genes - information not available in practice. Thus, subsequent conclusions are biased against traditional methods. In related work, second-generation p-values have recently been proposed for large-scale inference. We evaluate the viability and accuracy of this approach as well. Simulation studies of microarray of gene expression data are used. We maintain the original structure proposed by Bzdok, Altman, and Brzywinski. The different methods used to determine the number of dysregulated genes in simulated data were: unadjusted p-values, Benjamini-Hochberg adjusted p-values, random forest importance levels, and second-generation p-values. When all methods are given the same prior information, second-generation p-values generally outperform all other methods. The finding that random forest importance levels via a machine learning algorithm outperform classical methods was not reproduced nor validated in our examination. The choice of an analysis methods for large-scale translation data is critical to the success of any statistical investigation. In this context, machine learning methods fail to outperform standard methods and, given their additional complexity, are not the optimal approach."
+summary: 2017 Undergrad Honors Thesis
+abstract: "For two semesters, a fellow math major and I thoroughly proved results from Sections 1.1 -- 1.8 of An Introduction to Chaotic Dynamical Systems by Robert Devaney. After going through Devaney's calculations and proofs, I created a multi-parameter family of functions to consider and observe. This is a piecewise function of polynomials that always intersects the x-axis at 0 and 1. It has two maxima and one minimum value. Depending on the range of the parameters, the minimum value can be above or below the x-axis. I have analyzed its behavior and determined the fixed and periodic points. I found that at certain parameter values the family of function's corresponding invariant set will be closed and totally disconnected. I conjecture that the invariant set is a perfect subset of the unit interval which would make it a Cantor set. Next, if the same parameter values could be used to show the new equation maps are chaotic. Dr. Brian Raines will guide me through the steps of this process. "
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-10-26"
+date: "2020-10-22"
 date_end: 
 all_day: false
 
@@ -24,7 +25,19 @@ all_day: false
 publishDate: ""
 
 authors: []
-tags: []
+tags:
+- Chaos
+- Multi-parameter functions
+
+links:
+url_pdf: files/Multi_Parameter_Functions_in_Chaotic_Dynamical_Systems__9279227mgnbkrtmqkfs_.pdf
+url_code: 
+url_dataset: 
+url_poster: 
+url_project: 
+url_slides: files/multi-parameter-functions.pdf
+url_source: 
+url_video: 
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -32,12 +45,6 @@ featured: false
 image:
   caption: ''
   focal_point: Right
-
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

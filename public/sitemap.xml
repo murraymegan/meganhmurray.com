@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.meganhmurray.com/talk/oralexam/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.meganhmurray.com/talk/undergradthesis/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +34,11 @@
   
   <url>
     <loc>www.meganhmurray.com/tag/multiple-comparisons/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/talk/oralexam/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,10 +123,6 @@
   </url>
   
   <url>
-    <loc>www.meganhmurray.com/talk/jmm2017/</loc>
-  </url>
-  
-  <url>
     <loc>www.meganhmurray.com/talk/enar2019/</loc>
   </url>
   
@@ -144,6 +140,10 @@
   
   <url>
     <loc>www.meganhmurray.com/tag/metabolism/</loc>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/talk/jmm2017/</loc>
   </url>
   
   <url>

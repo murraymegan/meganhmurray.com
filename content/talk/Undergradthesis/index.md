@@ -1,5 +1,5 @@
 ---
-title: 
+title: 2017 Undergrad Honors Thesis
 event: 
 event_url: 
 
@@ -11,7 +11,7 @@ address:
   postcode: 
   country: 
 
-summary: 2017 Undergrad Honors Thesis
+summary: Multi-Parameter Functions in Chaotic Dynamical Systems
 abstract: "For two semesters, a fellow math major and I thoroughly proved results from Sections 1.1 -- 1.8 of An Introduction to Chaotic Dynamical Systems by Robert Devaney. After going through Devaney's calculations and proofs, I created a multi-parameter family of functions to consider and observe. This is a piecewise function of polynomials that always intersects the x-axis at 0 and 1. It has two maxima and one minimum value. Depending on the range of the parameters, the minimum value can be above or below the x-axis. I have analyzed its behavior and determined the fixed and periodic points. I found that at certain parameter values the family of function's corresponding invariant set will be closed and totally disconnected. I conjecture that the invariant set is a perfect subset of the unit interval which would make it a Cantor set. Next, if the same parameter values could be used to show the new equation maps are chaotic. Dr. Brian Raines will guide me through the steps of this process. "
 
 

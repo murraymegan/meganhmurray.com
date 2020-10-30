@@ -1,6 +1,6 @@
 ---
-title: 
-event: 
+title: Modeling Dermal Diffusion and Metabolism for Consumer Products
+event: 2017 Joint Mathematics Meeting conference Poster
 event_url: http://jointmathematicsmeetings.org/jmm
 
 location: Atlanta, GA
@@ -11,7 +11,7 @@ address:
   postcode: 
   country: 
 
-summary: 2017 beamer poster presentation for Joint Mathematics Meeting conference.
+summary: 2017 beamer poster presentation for JMM conference.
 abstract: "The US EPA Toxcast program is interested in predicting toxicity information for over 80,000 chemicals. Dermal exposure of consumer products is a major concern. When a chemical comes in contact with the skin, it increases the likelihood that the chemical will penetrate the skin and enter the bloodstream, potentially resulting in toxicity for several body organs. Given that performing experiments for each of these chemicals is costly and inefficient, the EPA has developed a research program to predict the toxicity effects of these chemicals. Computational methods, such as mathematical modeling and numerical analysis, play an integral part in dermal absorption predictions. Mathematical modeling has predominantly been used for the \textit{in silico} calculation of dermal absorption parameters like permeability and penetration lag time. Dermal metabolism may contribute to clearing chemicals from the skin and therefore can prevent them from entering circulation. Current dermal models do not include metabolism, but a method for quantifying clearance after dermal absorption could significantly improve current model's results. Our research aims to develop a more accurate dermal model which will incorporate skin metabolism, absorption, and diffusion. Optimization will be used to find parameter values without experimental data, and then numerical methods will be used to approximate the analytical solution of our model. Our goal is to minimize the number of parameters while increasing confidence in our model's predictions."
 
 # Talk start and end times.

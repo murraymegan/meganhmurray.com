@@ -47,7 +47,7 @@ social:
   icon_pack: ai
   link: https://arxiv.org/a/murray_m_3.html
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: www.linkedin.com/in/murraymegan25
 - icon: cv
   icon_pack: ai

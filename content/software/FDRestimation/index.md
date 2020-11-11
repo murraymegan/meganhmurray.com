@@ -1,5 +1,15 @@
 ---
 title: FDRestimation
+event: New R Package 
+event_url: 
+
+location: 
+address:
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
 summary: Estimate, Plot, and Summarize False Discovery Rates conference.
 abstract: "The user can directly compute and display false discovery rates from inputted p-values or z-scores under a variety of assumptions. p.fdr() computes FDRs, adjusted p-values and decision reject vectors from inputted p-values or z-values. get.pi0() estimates the proportion of data that are truly null. plot.p.fdr() plots the FDRs, adjusted p-values, and the raw p-values points against their rejection threshold lines."
@@ -19,13 +29,13 @@ tags:
 - Multiple Testing
 
 links:
-url_pdf: https://github.com/murraymegan/FDRestimation
+url_pdf: 
 url_code: 
 url_dataset: 
 url_poster: 
 url_project: 
 url_slides: 
-url_source: 
+url_source: https://github.com/murraymegan/FDRestimation
 url_video: 
 
 # Is this a featured talk? (true/false)

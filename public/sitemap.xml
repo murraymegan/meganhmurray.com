@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>www.meganhmurray.com/authors/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/software/fdrestimation/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/author/megan-hollister-murray/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tag/multiple-testing/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/software/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.meganhmurray.com/tags/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>www.meganhmurray.com/tag/fdrs/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.meganhmurray.com/tag/machine-learning/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,11 +63,6 @@
   </url>
   
   <url>
-    <loc>www.meganhmurray.com/tags/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.meganhmurray.com/talk/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -53,17 +78,7 @@
   </url>
   
   <url>
-    <loc>www.meganhmurray.com/authors/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>www.meganhmurray.com/publication/fdrarxiv/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/author/megan-hollister-murray/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,11 +114,6 @@
   
   <url>
     <loc>www.meganhmurray.com/talk/acts2019/</loc>
-    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.meganhmurray.com/tag/multiple-testing/</loc>
     <lastmod>2019-10-26T00:00:00+00:00</lastmod>
   </url>
   

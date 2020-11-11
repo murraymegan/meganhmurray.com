@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Megan Hollister Murray</title>
+    <link>www.meganhmurray.com/software/</link>
+      <atom:link href="www.meganhmurray.com/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
+      <title>Software</title>
+      <link>www.meganhmurray.com/software/</link>
+    </image>
+    
+    <item>
+      <title>FDRestimation</title>
+      <link>www.meganhmurray.com/software/fdrestimation/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>www.meganhmurray.com/software/fdrestimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

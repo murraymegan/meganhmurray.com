@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Megan Hollister Murray</title>
+    <title>Categories | Megan Hollister Murray</title>
     <link>www.meganhmurray.com/categories/</link>
-    <description>Recent content in Categories on Megan Hollister Murray</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="www.meganhmurray.com/categories/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="www.meganhmurray.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>www.meganhmurray.com/categories/</link>
+    </image>
+    
   </channel>
 </rss>

@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Megan Hollister Murray</title>
+    <title>Authors | Megan Hollister Murray</title>
     <link>www.meganhmurray.com/authors/</link>
-    <description>Recent content in Authors on Megan Hollister Murray</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Megan Hollister Murray</title>
-      <link>www.meganhmurray.com/author/megan-hollister-murray/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>www.meganhmurray.com/author/megan-hollister-murray/</guid>
-      <description>Hello! I am a PhD candidate in the Department of Biostatistics at Vanderbilt University. I have a Bachelor&amp;rsquo;s in Mathematics from Baylor University. In January of 2020 I married the love of my life Paul, shown in the photo.</description>
-    </item>
+      <atom:link href="www.meganhmurray.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>www.meganhmurray.com/authors/</link>
+    </image>
     
   </channel>
 </rss>

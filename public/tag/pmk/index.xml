@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PMK on Megan Hollister Murray</title>
+    <title>PMK | Megan Hollister Murray</title>
     <link>www.meganhmurray.com/tag/pmk/</link>
-    <description>Recent content in PMK on Megan Hollister Murray</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/tag/pmk/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="www.meganhmurray.com/tag/pmk/index.xml" rel="self" type="application/rss+xml" />
+    <description>PMK</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
+      <title>PMK</title>
+      <link>www.meganhmurray.com/tag/pmk/</link>
+    </image>
+    
     <item>
       <title>Factors Influencing Precision Medicine Knowledge and Attitudes</title>
       <link>www.meganhmurray.com/publication/precisionbiorxiv/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/publication/precisionbiorxiv/</guid>
       <description></description>
     </item>

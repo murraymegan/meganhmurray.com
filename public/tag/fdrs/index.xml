@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FDRs on Megan Hollister Murray</title>
+    <title>FDRs | Megan Hollister Murray</title>
     <link>www.meganhmurray.com/tag/fdrs/</link>
-    <description>Recent content in FDRs on Megan Hollister Murray</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/tag/fdrs/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="www.meganhmurray.com/tag/fdrs/index.xml" rel="self" type="application/rss+xml" />
+    <description>FDRs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
+      <title>FDRs</title>
+      <link>www.meganhmurray.com/tag/fdrs/</link>
+    </image>
+    
     <item>
       <title>Properties of machine learning and FDRs for discovery in large scale data</title>
       <link>www.meganhmurray.com/talk/oralexam/</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/oralexam/</guid>
       <description></description>
     </item>
@@ -20,9 +24,8 @@
       <title>False Discovery Rate Computation: Illustrations and Modifications</title>
       <link>www.meganhmurray.com/publication/fdrarxiv/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/publication/fdrarxiv/</guid>
-      <description>This paper introduces a new user-friendly R package for computing FDRs and adjusting p-values for FDR control. The package is broad, encompassing a variety of methods for FDR estimation and FDR control, and includes plotting functions for easy display of results.</description>
+      <description></description>
     </item>
     
   </channel>

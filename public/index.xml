@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megan Hollister Murray</title>
     <link>www.meganhmurray.com/</link>
-    <description>Recent content on Megan Hollister Murray</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="www.meganhmurray.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Megan Hollister Murray</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
+      <title>Megan Hollister Murray</title>
+      <link>www.meganhmurray.com/</link>
+    </image>
+    
+    <item>
+      <title>FDRestimation</title>
+      <link>www.meganhmurray.com/software/fdrestimation/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>www.meganhmurray.com/software/fdrestimation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Properties of machine learning and FDRs for discovery in large scale data</title>
       <link>www.meganhmurray.com/talk/oralexam/</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/oralexam/</guid>
       <description></description>
     </item>
@@ -20,7 +32,6 @@
       <title>Binary Search</title>
       <link>www.meganhmurray.com/binary-search/</link>
       <pubDate>Mon, 19 Oct 2020 09:23:16 -0500</pubDate>
-      
       <guid>www.meganhmurray.com/binary-search/</guid>
       <description></description>
     </item>
@@ -29,16 +40,14 @@
       <title>False Discovery Rate Computation: Illustrations and Modifications</title>
       <link>www.meganhmurray.com/publication/fdrarxiv/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/publication/fdrarxiv/</guid>
-      <description>This paper introduces a new user-friendly R package for computing FDRs and adjusting p-values for FDR control. The package is broad, encompassing a variety of methods for FDR estimation and FDR control, and includes plotting functions for easy display of results.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Factors Influencing Precision Medicine Knowledge and Attitudes</title>
       <link>www.meganhmurray.com/publication/precisionbiorxiv/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/publication/precisionbiorxiv/</guid>
       <description></description>
     </item>
@@ -47,25 +56,22 @@
       <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
       <link>www.meganhmurray.com/talk/acts2019/</link>
       <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/acts2019/</guid>
-      <description>2019 beamer poster presentation for ACTS conference.</description>
+      <description></description>
     </item>
     
     <item>
       <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
       <link>www.meganhmurray.com/talk/enar2019/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/enar2019/</guid>
-      <description>2019 beamer slides for ENAR conference.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Multi-Parameter Functions in Chaotic Dynamical Systems</title>
       <link>www.meganhmurray.com/talk/undergradthesis/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/undergradthesis/</guid>
       <description></description>
     </item>
@@ -74,9 +80,8 @@
       <title>Modeling Dermal Diffusion and Metabolism for Consumer Products</title>
       <link>www.meganhmurray.com/talk/jmm2017/</link>
       <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/jmm2017/</guid>
-      <description>2017 beamer poster presentation for JMM conference.</description>
+      <description></description>
     </item>
     
   </channel>

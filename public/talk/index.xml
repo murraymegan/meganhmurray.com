@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on Megan Hollister Murray</title>
+    <title>Talks | Megan Hollister Murray</title>
     <link>www.meganhmurray.com/talk/</link>
-    <description>Recent content in Talks on Megan Hollister Murray</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.meganhmurray.com/talk/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="www.meganhmurray.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.meganhmurray.com/images/icon_hu8710b08494b097f5df489a5e3f8edb89_62122_512x512_fill_lanczos_center_2.png</url>
+      <title>Talks</title>
+      <link>www.meganhmurray.com/talk/</link>
+    </image>
+    
     <item>
       <title>Properties of machine learning and FDRs for discovery in large scale data</title>
       <link>www.meganhmurray.com/talk/oralexam/</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/oralexam/</guid>
       <description></description>
     </item>
@@ -20,25 +24,22 @@
       <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
       <link>www.meganhmurray.com/talk/acts2019/</link>
       <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/acts2019/</guid>
-      <description>2019 beamer poster presentation for ACTS conference.</description>
+      <description></description>
     </item>
     
     <item>
       <title>An evaluation of machine learning and classical statistical methods for discovery in large-scale translational data</title>
       <link>www.meganhmurray.com/talk/enar2019/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/enar2019/</guid>
-      <description>2019 beamer slides for ENAR conference.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Multi-Parameter Functions in Chaotic Dynamical Systems</title>
       <link>www.meganhmurray.com/talk/undergradthesis/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/undergradthesis/</guid>
       <description></description>
     </item>
@@ -47,9 +48,8 @@
       <title>Modeling Dermal Diffusion and Metabolism for Consumer Products</title>
       <link>www.meganhmurray.com/talk/jmm2017/</link>
       <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>www.meganhmurray.com/talk/jmm2017/</guid>
-      <description>2017 beamer poster presentation for JMM conference.</description>
+      <description></description>
     </item>
     
   </channel>

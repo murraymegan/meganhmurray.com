@@ -12,7 +12,7 @@ address:
   country: 
 
 summary: Estimate, Plot, and Summarize False Discovery Rates conference.
-abstract: "The user can directly compute and display false discovery rates from inputted p-values or z-scores under a variety of assumptions. p.fdr() computes FDRs, adjusted p-values and decision reject vectors from inputted p-values or z-values. get.pi0() estimates the proportion of data that are truly null. plot.p.fdr() plots the FDRs, adjusted p-values, and the raw p-values points against their rejection threshold lines."
+abstract: "The user can directly compute and display false discovery rates from inputted p-values or z-scores under a variety of assumptions. `p.fdr()` computes FDRs, adjusted p-values and decision reject vectors from inputted p-values or z-values. `get.pi0()` estimates the proportion of data that are truly null. `plot.p.fdr()` plots the FDRs, adjusted p-values, and the raw p-values points against their rejection threshold lines."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,13 +29,15 @@ tags:
 - Multiple Testing
 
 links:
-url_pdf: 
+- name: Download Package Here
+  url: https://github.com/murraymegan/FDRestimation
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.06.04.133942v1.full.pdf
 url_code: 
 url_dataset: 
 url_poster: 
 url_project: 
 url_slides: 
-url_source: https://github.com/murraymegan/FDRestimation
+url_source: 
 url_video: 
 
 # Is this a featured talk? (true/false)
